@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login/Page_Kointra/input_Giri Yap_form-control",
+      "brokenLocator": "//input[@value\u003d\u0027K\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027main-wrapper\u0027]/div/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/login/Page_Kointra/input_Giri Yap_form-control_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login/Page_Kointra/input_Giri Yap_form-control_1",
+      "brokenLocator": "//input[@value\u003d\u0027K\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027main-wrapper\u0027]/div/div/form/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/login/Page_Kointra/input_Giri Yap_form-control_1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login/Page_Kointra/iframe_ifreni mi unuttun_a-wecg5mjmwl6v",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-wecg5mjmwl6v\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027recaptcha\u0027]/div/div/div/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/login/Page_Kointra/iframe_ifreni mi unuttun_a-wecg5mjmwl6v_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login/Page_Kointra/iframe_ifreni mi unuttun_a-wecg5mjmwl6v",
+      "brokenLocator": "//iframe[@name\u003d\u0027a-wecg5mjmwl6v\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/login/Page_Kointra/iframe_ifreni mi unuttun_a-wecg5mjmwl6v_position.png"
+    }
+  ]
+}
